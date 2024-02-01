@@ -14,3 +14,5 @@ After figuring out all of the errors, I'd like to share a ready-to-use demo app 
 3. Open this repo in your Android Studio, sync and run it. I had successfully run it on two versions: `Android Studio Electric Eel | 2022.1.1 Patch 2` and `Android Studio Hedgehog | 2023.1.1`
 
 ### How it looks like?
+<img src="./speech_to_text.gif" width="256"/>
+
