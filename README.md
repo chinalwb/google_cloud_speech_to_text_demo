@@ -13,6 +13,6 @@ After figuring out all of the errors, I'd like to share a ready-to-use demo app 
 2. The `credential.json` is crucial for using this demo. When you get yours, checkout this repo, and put it at: `google_cloud_speech_to_text_demo/app/src/main/res/raw/credential.json` &lt;-- your goes here
 3. Open this repo in your Android Studio, sync and run it. I had successfully run it on two versions: `Android Studio Electric Eel | 2022.1.1 Patch 2` and `Android Studio Hedgehog | 2023.1.1`
 
-### How it looks like?
+### What does it look like?
 <img src="./speech_to_text.gif" width="256"/>
 
